@@ -25,10 +25,25 @@ body{
     background: #AF8055;
     height: 40px;
     margin-top: 6rem;
-    border-radius: 20px 20px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
     width: 75%;
 }
 .balance_container{
     background: #236457;
-    border-radius: 20px 20px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+.acct_info{
+    background-color: #AF8055;
+    border-radius: 10px 10px 10px 10px;
+}
+.input-group{
+    border-bottom: 2px solid #E5E5E5;
+}
+.form-control{
+    width: 100%;
+    border: none !important;
+}
+.input-group-text{
+    border: none !important;
+    background-color: transparent;
 }
