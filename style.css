@@ -67,3 +67,6 @@ body{
 .brown_modal{
     background-color: #AF8055;
 }
+.modal_record{
+    border-bottom: 2px solid #AF8055 !important;
+}
