@@ -39,6 +39,10 @@ body{
 .input-group{
     border-bottom: 2px solid #E5E5E5;
 }
+.form-control:focus{
+    border: none !important;
+    box-shadow: none !important;
+}
 .form-control{
     width: 100%;
     border: none !important;
