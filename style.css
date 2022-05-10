@@ -51,3 +51,19 @@ body{
     border: none !important;
     background-color: transparent;
 }
+
+/* new styles */
+
+.transaction_record{
+    border: 1px solid #AF8055;
+}
+.record_icon{
+    font-size: 30px !important;
+    color: #236457 !important;
+}
+.records-icon{
+    background-color: white !important;
+}
+.brown_modal{
+    background-color: #AF8055;
+}
